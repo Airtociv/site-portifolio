@@ -1,0 +1,50 @@
+1F9EF9 - azul celeste
+	adobe, triade
+	1E9DFA - azul celeste ajustado
+	FAFA55 - icterina
+	80110F - ou crimson
+
+
+
+
+
+
+
+
+30013C - violeta russa
+
+	FFD15C - luz do sol
+	6AB096- azul cambridge
+
+
+
+
+
+
+
+10E529 - verde SGBUS
+	adobe, triade
+	(a fonte do site é bem diferente, da a impressão que mudou a cor mas o texto não mudou.)
+	FF962E - laranja princeton
+	483080 - tekhelet
+
+
+
+
+FFB805 - amarelo seletivo (favor testar)
+
+	D000FA - phlox
+	00FAA2 - aquamaine
+
+
+
+
+nova proposta - sequencia\degrade
+
+incia com 1F9EF9 - azul celeste
+		#FFF275 - amarelo milho [maize]
+		#C09BD8 - um tom meio lilas[wisteria](acho que aquela tradução chamou as plantas de glicineas(eu não sei como esreve))
+		#4FB286 - verde hortelã [mint]
+		#F79256 - um laranja meio creme [atomic tangerine](não acho que esse nome faz sentido)
+		#F991CC - rosa [pesian pink] (da persia?)
+
